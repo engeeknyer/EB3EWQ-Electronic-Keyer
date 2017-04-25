@@ -6,7 +6,9 @@ This project contents:
 
   - The source code for programming the ATtiny
   - The schematic diagram for eagle cad (.sch)
-  - The PCB design for eagle cad (.pcb)
+  - The PCB design for eagle cad (.brd)
+
+Program is uploaded to ATtiny using Arduino IDE. Can be tested in Arduino UNO board.
 
 TODO: 
 
